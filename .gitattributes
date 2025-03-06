@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+Yolo-Weights/yolov8l.pt filter=lfs diff=lfs merge=lfs -text
+Yolo/videos/tra2.mp4 filter=lfs diff=lfs merge=lfs -text
